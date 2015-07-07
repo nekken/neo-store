@@ -46,5 +46,4 @@ class Cart
         Cart::$identifier = $identifier;
         return $this;
     }
-
 }
