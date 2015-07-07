@@ -1,4 +1,16 @@
 {
+    "name": "nekken/neo-store",
+    "type": "library",
+    "description": "Shopping cart framework",
+    "homepage": "https://github.com/nekken/neo-store",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ken Nguyen",
+            "email": "ken@nekken.ca",
+            "homepage": "http://www.nekken.ca/"
+        }
+    ],
     "require": {
         "monolog/monolog": "1.*",
         "doctrine/orm": "2.4.*",
